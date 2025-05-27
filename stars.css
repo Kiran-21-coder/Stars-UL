@@ -1,5 +1,5 @@
 ul.stars {
-      list-style: none; /* Remove default bullets */
+      list-style: none;
       padding-left: 0;
     }
 ul.stars li::before {
