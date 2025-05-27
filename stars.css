@@ -1,0 +1,14 @@
+ul.stars {
+      list-style: none; /* Remove default bullets */
+      padding-left: 0;
+    }
+ul.stars li::before {
+      content: "★"; 
+      color: red;   
+      margin-right: 10px;
+      font-size: 40px;
+    }
+
+li{
+        font-size: 30px;
+    }
